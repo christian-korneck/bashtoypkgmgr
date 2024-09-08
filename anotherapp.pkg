@@ -1,0 +1,4 @@
+#!/bin/bash
+# depends-on libflyingcircus
+
+python -c "import libfoo; libfoo.bar()"

@@ -1,0 +1,4 @@
+#!/bin/bash
+# depends-on libbar
+# depends-on libflyingcircus
+export PYTHONPATH=$PYTHONPATH:$(pwd)/payload/libfoo

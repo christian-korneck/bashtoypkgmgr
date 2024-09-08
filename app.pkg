@@ -1,0 +1,4 @@
+#!/bin/bash
+# depends-on libfoo
+
+python -c "import libfoo; libfoo.bar()"
